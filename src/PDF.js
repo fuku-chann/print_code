@@ -1,8 +1,3 @@
-//function printToPDF() {
-  //return createPDF("1v1p-UlSm8kjQnYz6iTNpj6Xc9k0RBe2m", "13H4m38CC7k0-VnhkZZolPu5D1PY4Ekb1NG_-JGL2ZvQ", "print out.pdf");
-//}
-
-
 // PDF作成関数　引数は（folderid:保存先フォルダID, ssid:PDF化するスプレッドシートID, sheetid:PDF化するシートID, filename:PDFの名前）
 function createPDF(folderid, ssid, filename) {
 
